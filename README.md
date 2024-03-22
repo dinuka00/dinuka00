@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dinuka Themiya</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4834d4&size=42&center=true&vCenter=true&width=1000&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Dinuka+Themiya">
+</p>
+
 <h3 align="center">A passionate frontend developer, bridging design and functionality with each line of code. Welcome to my GitHub profile! Feel free to explore my repositories and projects, where every commit tells a story of innovation and progress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinuka00&label=Profile%20views&color=0e75b6&style=flat" alt="dinuka00" /> </p>
