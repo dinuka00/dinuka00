@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=4834d4&size=42&center=true&vCenter=true&width=1000&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Dinuka+Themiya">
 </p>
 
-<h3 align="center">A passionate frontend developer, bridging design and functionality with each line of code. Welcome to my GitHub profile! Feel free to explore my repositories and projects, where every commit tells a story of innovation and progress.</h3>
+<h3 align="center">A passionate fullstack developer, bridging design and functionality with each line of code. Welcome to my GitHub profile! Feel free to explore my repositories and projects, where every commit tells a story of innovation and progress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinuka00&label=Profile%20views&color=0e75b6&style=flat" alt="dinuka00" /> </p>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **anything**
 
 - 👯 I’m looking to collaborate on **anything**
 
